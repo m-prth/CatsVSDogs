@@ -1,16 +1,13 @@
-# catsvsdogs
+# Cats VS Dogs - A Flutter App
+> by Parth Mistry
 
-A new Flutter project.
+* It is an application which is build on Flutter which will classify images of cats and dogs.  
+* It uses a convolutional neural network model which is made using the Teachable Machine. Therefore it is called Transfer Learning.  
+* For Flutter, it uses TFLite package which is used for the classification task.  
+* It will allow the user either to click a picture using the device's camera or the image can be uploaded from the photo gallery.
 
-## Getting Started
+## Specifications:  
+**Flutter Version:** 1.22.0-12.0.pre - beta  
+**Dart Version:** 2.10.0  
+**Other packages used:** TFLite, image-picker, SplashScreen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
