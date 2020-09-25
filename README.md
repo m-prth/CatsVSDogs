@@ -15,9 +15,9 @@
 
 ---
 ## Screens:
-![Screen1](screens\Screenshot_1601042573.png)
-![Screen2](screens\Screenshot_1601042533.png)
-![Screen3](screens\Screenshot_1601042579.png)
+![Screen1](screens\Screenshot_1601042573.png 'Screen1')
+![Screen2](screens\Screenshot_1601042533.png 'Screen2')
+![Screen3](screens\Screenshot_1601042579.png 'Screen3')
 
 ---
 
