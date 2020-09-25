@@ -14,6 +14,12 @@
 **Other packages used:** TFLite, image-picker, SplashScreen
 
 ---
+## Screens:
+![Screen1](screens\Screenshot_1601042573.png)
+![Screen2](screens\Screenshot_1601042533.png)
+![Screen3](screens\Screenshot_1601042579.png)
+
+---
 
 ## Getting Started:  
 **Note:** Make sure your Flutter environment is setup.  
