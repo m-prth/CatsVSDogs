@@ -9,9 +9,9 @@
 ---
 
 ## Specifications:  
-* **Flutter Version:** 1.22.0-12.0.pre - beta  
-* **Dart Version:** 2.10.0  
-* **Other packages used:** TFLite, image-picker, SplashScreen
+**Flutter Version:** 1.22.0-12.0.pre - beta  
+**Dart Version:** 2.10.0  
+**Other packages used:** TFLite, image-picker, SplashScreen
 
 ---
 ## Screens:
@@ -28,9 +28,9 @@
 ### Installation:  
 Use the following command in the command terminal.
 ```
-* $ git clone https://github.com/m-prth/CatsVSDogs.git
-* $ cd CatsVSDogs
-* $ flutter run
+$ git clone https://github.com/m-prth/CatsVSDogs.git
+$ cd CatsVSDogs
+$ flutter run
 ```
 
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter project.
