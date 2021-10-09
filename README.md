@@ -10,8 +10,8 @@
 ---
 
 ## Specifications:  
-**Flutter Version:** 1.22.0-12.0.pre - beta
-**TensorFlow Version:** 2.2.0
+**Flutter Version:** 1.22.0-12.0.pre - beta  
+**TensorFlow Version:** 2.2.0  
 **Dart Version:** 2.10.0  
 **Other packages used:** TFLite, image-picker, SplashScreen
 
