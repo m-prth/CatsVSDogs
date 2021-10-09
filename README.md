@@ -5,11 +5,13 @@
 * It uses a convolutional neural network model which is made using the Teachable Machine. Therefore it is called Transfer Learning.  
 * For Flutter, it uses TFLite package which is used for the classification task.  
 * It will allow the user either to click a picture using the device's camera or the image can be uploaded from the photo gallery.
+* This application obeys all the andriod privacy policies and will ask for permission on the first launch.
 
 ---
 
 ## Specifications:  
 **Flutter Version:** 1.22.0-12.0.pre - beta  
+**TensorFlow Version:** 2.2.0  
 **Dart Version:** 2.10.0  
 **Other packages used:** TFLite, image-picker, SplashScreen
 
